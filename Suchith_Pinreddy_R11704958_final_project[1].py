@@ -3,7 +3,6 @@ The purpose of this project to utlize the tools of Multiprocessing that is teach
 implement modular cellular life simulator by running first 100 steps. For multiprocessing I used the Multiprocessing
 library in that I used Pool classes and argparse to parse CMD commands
 Created by: Suchith Chandan Reddy Pinreddy
-R#: R11704958
 Created and Tested in HPCC: 12/01/2022
 '''
 from multiprocessing import Pool
